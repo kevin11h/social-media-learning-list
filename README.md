@@ -1,14 +1,15 @@
 # social-media-learning-list
 
-+ facebook
-+ gmail
-+ linkedin
-+ github
-+ quora
-+ wikipedia
-+ twitter
-+ news
-+ text
++ facebook 8
++ gmail 0
++ linkedin 5
++ github 10
++ quora 6
++ google search engine 7
++ wikipedia 10
++ twitter 9
++ news 7
++ text 10
 
 
-+ questions
++ questions 100
