@@ -4,6 +4,7 @@ Wise Web Usage Optimization
 
 
 + questions 100+
++ books / stories / inteviews 20+
 + atrium Y?
 + angellist X? 
 + wikipedia 10
