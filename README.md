@@ -5,7 +5,9 @@ Wise Web Usage Optimization
 
 1. questions 100+ \#social \#game \#irl \#communication
 2. books / stories / inteviews 20+ \#social \#game \#irl \#communication
+
 2.5.  rest - reflect - relax - response \#health \#meditation
+
 3. eventbrite / events on FB 8 \#social \#game \#irl \#communication
 4. atrium Y? \#entrepreneurship \#irl \#communication
 5. angellist X?  \#entrepreneurship \#irl 
