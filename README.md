@@ -2,18 +2,21 @@
 
 Wise Web Usage Optimization
 
-+ facebook 8
-+ gmail 0
-+ linkedin 5
-+ github 10
-+ quora 6
-+ google search engine 7
-+ wikipedia 10
-+ twitter 9
-+ news 7
-+ text 10
 
-
-+ questions 100
-
++ questions 100+
++ atrium Y?
 + angellist X? 
++ wikipedia 10
++ text 10
++ telegram 10
++ github 8
++ wechat 7
++ facebook 8
++ eventbrite 8
++ youtube 7
++ google search engine 7
++ quora 6
++ twitter 6
++ linkedin 5
++ gmail 4
++ news 3
