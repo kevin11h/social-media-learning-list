@@ -3,13 +3,15 @@
 Wise Web Usage Optimization
 
 
-+ questions 100+ \#social \#game \#irl \#communication
-+ books / stories / inteviews 20+ \#social \#game \#irl \#communication
-+ eventbrite / events on FB 8 \#social \#game \#irl \#communication
-+ atrium Y? \#entrepreneurship \#irl \#communication
-+ angellist X?  \#entrepreneurship \#irl 
-+ wikipedia 10 \#higher \#learning
-+ text 7 \#irl \#social \#game \#communication
+1. questions 100+ \#social \#game \#irl \#communication
+2. books / stories / inteviews 20+ \#social \#game \#irl \#communication
+2.5.  rest - reflect - relax - response \#health \#meditation
+3. eventbrite / events on FB 8 \#social \#game \#irl \#communication
+4. atrium Y? \#entrepreneurship \#irl \#communication
+5. angellist X?  \#entrepreneurship \#irl 
+6. wikipedia 10 \#higher \#learning
+7. text 7 \#irl \#social \#game \#communication
+
 
 + telegram 10
 + github 8
